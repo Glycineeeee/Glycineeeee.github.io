@@ -12,7 +12,7 @@ title                    : "glycineeeee.github.io"
 title_separator          : "-"
 name                     : &name "Jingmiao Zhang"
 # description              : &description "personal description"
-# url                      : https://glycineeeee.github.io/
+url                      : Homepage
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : "Glycineeeee/glycineeeee.github.io"
 
