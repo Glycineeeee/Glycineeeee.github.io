@@ -21,13 +21,12 @@ url                      : "https://glycineeeee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Jingmiao Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Master's student at USTC"
   location         : "Hefei, Anhui, China"
   employer         : "USTC"
-  uri              : # URL
   email            : "nanshan@mail.ustc.edu.cn" 
 
   # Academic websites
