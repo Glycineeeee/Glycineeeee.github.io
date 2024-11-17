@@ -23,10 +23,6 @@ I'm currently a Master's student in Computer Science at the University of Scienc
    **Task-Oriented Training Data Privacy Protection for Cloud-based Model Training.**  
    In *The 34th USENIX Security Symposium*, Seattle, WA, USA, August 13–15, 2025.
 
-3. Suyuan Liu, **Jingmiao Zhang**, Haikuo Yu, Yan Zhang, Yuetian Wang, Guobin Shen, Xiang-Yang Li.  
-   **AMoS: Autonomous Multimodal POI Standardization without Extra Annotation.**  
-   *Under review at INFOCOM 2025.*
-
 ---
 
 # Awards & Honors
