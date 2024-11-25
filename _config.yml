@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Jingmiao Zhang"
-  pronouns         : "she/her"  
+  # pronouns         : "she/her"  
   bio              : "Master's student at USTC"
   location         : "Hefei, Anhui, China"
   employer         : "USTC"
