@@ -52,7 +52,7 @@ I'm currently a Master's student in Computer Science at the University of Scienc
 
 ---
 
-## Service & Leadership
+# Service & Leadership
 - **Teaching Assistant**, Fundamentals of Algorithms, USTC (Sept 2024 – Present)
 
 - **Teaching Assistant**, Computer Security, USTC (Mar 2023 – Jun 2023)
