@@ -15,11 +15,11 @@ I'm currently a Master's student in Computer Science at the University of Scienc
 ---
 
 # Publications
-1. **<span style="color: red;">[Security]</span> SpeechGuard: Recoverable and Customizable Speech Privacy Protection.**  
+1. **<span style="color: red;">[Security'24]</span> SpeechGuard: Recoverable and Customizable Speech Privacy Protection.**  
    **Jingmiao Zhang**, Suyuan Liu, Jiahui Hou, Zhiqiang Wang, Haikuo Yu, Xiang-Yang Li.  
    In *The 33th USENIX Security Symposium*, 2024.
 
-2. **<span style="color: red;">[Security]</span> Task-Oriented Training Data Privacy Protection for Cloud-based Model Training.**  
+2. **<span style="color: red;">[Security'24]</span> Task-Oriented Training Data Privacy Protection for Cloud-based Model Training.**  
    Zhiqiang Wang, Jiahui Hou, Haifeng Sun, **Jingmiao Zhang**, Yunhao Yao, Haikuo Yu, Xiang-Yang Li.  
    In *The 33th USENIX Security Symposium*, 2024.
 
