@@ -9,17 +9,17 @@ redirect_from:
 I'm currently a Master's student in Computer Science at the University of Science and Technology of China (USTC), supervised by Prof. [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow). I received my Bachelor of Engineering in Information Security from USTC in 2023. My research interests include IoT security and privacy. Feel free to reach out to me via email for collaboration or discussion.
 
 # Education
-- M.S. in Computer Science (Expected), USTC, 2023 - 2026
+- M.S. in Computer Science, USTC, 2023 - 2026 (Expected)
 - B.E. in Information Security, USTC, 2019 - 2023
 
 ---
 
 # Publications
-1. **<span style="color: red;">[Usenix Security]</span> SpeechGuard: Recoverable and Customizable Speech Privacy Protection.**  
+1. **<span style="color: red;">[Security]</span> SpeechGuard: Recoverable and Customizable Speech Privacy Protection.**  
    **Jingmiao Zhang**, Suyuan Liu, Jiahui Hou, Zhiqiang Wang, Haikuo Yu, Xiang-Yang Li.  
    In *The 33th USENIX Security Symposium*, 2024.
 
-2. **<span style="color: red;">[Usenix Security]</span> Task-Oriented Training Data Privacy Protection for Cloud-based Model Training.**  
+2. **<span style="color: red;">[Security]</span> Task-Oriented Training Data Privacy Protection for Cloud-based Model Training.**  
    Zhiqiang Wang, Jiahui Hou, Haifeng Sun, **Jingmiao Zhang**, Yunhao Yao, Haikuo Yu, Xiang-Yang Li.  
    In *The 33th USENIX Security Symposium*, 2024.
 
