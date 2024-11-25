@@ -52,7 +52,7 @@ I'm currently a Master's student in Computer Science at the University of Scienc
 
 ---
 
-## Student Leadership and Community Service
+## Service and leadership
 - **Vice President**, Youth Volunteer Association, USTC (Sept 2021 – Jul 2022)  
   - Led the association’s rural outreach program, earning Outstanding Team, Individual, and Research Report Awards.  
   - Organized regular volunteer activities and received the "Two-Star Volunteer" award.  
