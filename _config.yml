@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jingmiao Zhang / 张婧苗"
 title_separator          : "-"
-# name                     : &name "Jingmiao Zhang"
+name                     : &name "Jingmiao Zhang"
 # description              : &description "personal description"
 url                      : "https://glycineeeee.github.io"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ url                      : "https://glycineeeee.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Jingmiao Zhang"
+  # name             : "Jingmiao Zhang"
   # pronouns         : "she/her"  
   # bio              : "Master's student at USTC"
   location         : "Hefei, Anhui, China"
