@@ -42,7 +42,7 @@ I'm currently a Master's student in Computer Science at the University of Scienc
   - Designed algorithms for IO aggregation and EC mode cost comparison, improving storage efficiency.  
   - Implemented hot stripe simulation and load-balanced EC disk scheduling strategies.
  
-- **Intern in Data Security and Protection**, NIO Inc., Hefei, China (Sept 2023 – Present)  
+- **Intern in Data Security and Protection**, NIO Inc., Hefei, China (Sept 2023 – Mar 2024)  
   - Designed a privacy protection solution for speech data generated in in-cabin and after-sales services.  
   - Enabled decryption of protected data for specific information based on user or task permissions.
  
@@ -53,6 +53,10 @@ I'm currently a Master's student in Computer Science at the University of Scienc
 ---
 
 ## Service & Leadership
+- **Teaching Assistant**, Fundamentals of Algorithms, USTC (Sept 2024 – Present)
+
+- **Teaching Assistant**, Computer Security, USTC (Mar 2023 – Jun 2023)
+
 - **Vice President**, Youth Volunteer Association, USTC (Sept 2021 – Jul 2022)  
   - Led the association’s rural outreach program, earning Outstanding Team, Individual, and Research Report Awards.  
   - Organized regular volunteer activities and received the "Two-Star Volunteer" award.  
