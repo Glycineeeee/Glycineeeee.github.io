@@ -9,7 +9,7 @@ redirect_from:
 I'm currently a Master's student in Computer Science at the University of Science and Technology of China (USTC), supervised by Prof. [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow). I received my Bachelor of Engineering in Information Security from USTC in 2023. My research interests include IoT security and privacy. Feel free to reach out to me via email for collaboration or discussion.
 
 # Education
-- M.S. in Computer Science, USTC, 2023 - 2026 (Expected)
+- M.E. in Computer Science and Technology, USTC, 2023 - 2026 (Expected)
 - B.E. in Information Security, USTC, 2019 - 2023
 
 ---
@@ -23,16 +23,17 @@ I'm currently a Master's student in Computer Science at the University of Scienc
    Zhiqiang Wang, Jiahui Hou, Haifeng Sun, **Jingmiao Zhang**, Yunhao Yao, Haikuo Yu, Xiang-Yang Li.  
    In *The 33th USENIX Security Symposium*, 2024.
 
+3. **<span style="color: red;">[Infocom'25]</span> AMoS: Autonomous Multimodal POI Standardization without Extra Annotation.**  
+   Suyuan Liu, **Jingmiao Zhang**, Haikuo Yu, Yan Zhang, Yuetian Wang, Guobin Shen, Xiang-Yang Li.  
+   In *IEEE International Conference on Computer Communications*, 2025.
+
 ---
 
-# Awards & Honors
+# Selected Awards & Honors
 - **Second Prize**, Ubiquitous Intelligent Sensing Technology Innovation Application Competition, Nov 2024  
 - **National Scholarship**, Ministry of Education, China, Oct 2024  
-- **First-Class Academic Scholarship**, USTC, Sept 2023  
-- **Longfor Scholarship**, USTC & Longfor Properties Co., Ltd., Sept 2022
 - **Meritorious Winner**, Mathematical Contest in Modeling (MCM), USA, Feb 2022  
 - **Gold Medal**, International Genetically Engineered Machine Competition (iGEM), Nov 2021  
-- **Bronze Prize**, Outstanding Student Scholarship, USTC, Sept 2021  
 
 ---
 
@@ -67,4 +68,4 @@ I'm currently a Master's student in Computer Science at the University of Scienc
 
 ---
 
-*Last updated: November 24, 2024*
+*Last updated: December 10, 2024*
