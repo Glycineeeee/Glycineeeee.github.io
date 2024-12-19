@@ -16,15 +16,15 @@ I'm currently a Master's student in Computer Science at the University of Scienc
 
 # Publications
 1. **<span style="color: red;">[Security'24]</span> SpeechGuard: Recoverable and Customizable Speech Privacy Protection.**  
-   **Jingmiao Zhang**, Suyuan Liu, Jiahui Hou, Zhiqiang Wang, Haikuo Yu, Xiang-Yang Li.  
+   <u>Jingmiao Zhang</u>, Suyuan Liu, Jiahui Hou, Zhiqiang Wang, Haikuo Yu, Xiang-Yang Li.  
    In *The 33th USENIX Security Symposium*, 2024.
 
 2. **<span style="color: red;">[Security'24]</span> Task-Oriented Training Data Privacy Protection for Cloud-based Model Training.**  
-   Zhiqiang Wang, Jiahui Hou, Haifeng Sun, **Jingmiao Zhang**, Yunhao Yao, Haikuo Yu, Xiang-Yang Li.  
+   Zhiqiang Wang, Jiahui Hou, Haifeng Sun, <u>Jingmiao Zhang</u>, Yunhao Yao, Haikuo Yu, Xiang-Yang Li.  
    In *The 33th USENIX Security Symposium*, 2024.
 
-3. **<span style="color: red;">[Infocom'25]</span> AMoS: Autonomous Multimodal POI Standardization without Extra Annotation.**  
-   Suyuan Liu, **Jingmiao Zhang**, Haikuo Yu, Yan Zhang, Yuetian Wang, Guobin Shen, Xiang-Yang Li.  
+3. **<span style="color: red;">[INFOCOM'25]</span> AMoS: Autonomous Multimodal POI Standardization without Extra Annotation.**  
+   Suyuan Liu, <u>Jingmiao Zhang</u>, Haikuo Yu, Yan Zhang, Yuetian Wang, Guobin Shen, Xiang-Yang Li.  
    In *IEEE International Conference on Computer Communications*, 2025.
 
 ---
