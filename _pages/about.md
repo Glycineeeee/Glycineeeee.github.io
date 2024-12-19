@@ -68,4 +68,4 @@ I'm currently a Master's student in Computer Science at the University of Scienc
 
 ---
 
-*Last updated: December 19, 2024*
+*Last updated: {{ "now" | date: "%B %d, %Y" }}*
