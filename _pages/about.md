@@ -31,9 +31,12 @@ I'm currently a Master's student in Computer Science at the University of Scienc
 
 # Selected Awards & Honors
 - **Second Prize**, Ubiquitous Intelligent Sensing Technology Innovation Application Competition, Nov 2024  
-- **National Scholarship**, Ministry of Education, China, Oct 2024  
+- **National Scholarship**, Ministry of Education, China, Oct 2024
+- **First-class Academic Scholarship**, USTC, 2023
+- **Longfor Scholarship**, USTC & Longfor Properties Co., Ltd., Sept 2022
 - **Meritorious Winner**, Mathematical Contest in Modeling (MCM), USA, Feb 2022  
-- **Gold Medal**, International Genetically Engineered Machine Competition (iGEM), Nov 2021  
+- **Gold Medal**, International Genetically Engineered Machine Competition (iGEM), Nov 2021
+- **Outstanding Student Scholarship**, USTC, Sept 2021
 
 ---
 
@@ -43,13 +46,13 @@ I'm currently a Master's student in Computer Science at the University of Scienc
   - Designed algorithms for IO aggregation and EC mode cost comparison, improving storage efficiency.  
   - Implemented hot stripe simulation and load-balanced EC disk scheduling strategies.
  
-- **Intern in Data Security and Protection**, NIO Inc., Hefei, China (Sept 2023 – Mar 2024)  
+- **Algorithm Engineer Intern**, NIO Inc., Hefei, China (Sept 2023 – Mar 2024)  
   - Designed a privacy protection solution for speech data generated in in-cabin and after-sales services.  
   - Enabled decryption of protected data for specific information based on user or task permissions.
  
 - **Summer Workshop Participant**, National University of Singapore (May 2022 – Jul 2022)  
   - Attended lectures on simulation, security, big data, and cloud computing.  
-  - Completed a practical project and course paper with a team of four, achieving second place in the evaluation.  
+  - Contributed as part of a four-member team to complete a practical project and course paper.
 
 ---
 
@@ -63,7 +66,7 @@ I'm currently a Master's student in Computer Science at the University of Scienc
   - Organized regular volunteer activities and received the "Two-Star Volunteer" award.  
 
 - **Deputy Director of Publicity Department**, Youth Volunteer Association, USTC (Sept 2020 – Jul 2021)  
-  - Managed the association’s official WeChat account and organized promotional campaigns.  
+  - Managed the association’s official WeChat account.
   - Received the "One-Star Volunteer" award.  
 
 ---
