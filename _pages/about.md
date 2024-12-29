@@ -32,7 +32,7 @@ I'm currently a Master's student majoring in Computer Science at the University 
 
 # Selected Awards & Honors
 - **Second Prize**, Ubiquitous Intelligent Sensing Technology Innovation Application Competition, Nov 2024  
-- **National Scholarship**, Ministry of Education, China, Oct 2024
+- **National Scholarship** (top 0.2% in China), Ministry of Education, China, Oct 2024
 - **First-class Academic Scholarship**, USTC, 2023
 - **Longfor Scholarship**, USTC & Longfor Properties Co., Ltd., Sept 2022
 - **Meritorious Winner**, Mathematical Contest in Modeling (MCM), USA, Feb 2022  
