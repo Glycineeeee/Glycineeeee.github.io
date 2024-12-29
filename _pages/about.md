@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Master's student majoring in Computer Science at the University of Science and Technology of China (USTC), supervised by Prof. [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow). My research interests include security and privacy in IoT systems and machine learning. <span style="color: red;">I'm actively seeking **2025 summer research internships** and **Ph.D. opportunities for Fall 2026** worldwide, please feel free to reach out to me via email (jingmiao [at] mail [dot] ustc [dot] edu [dot] cn)</span>
+I'm currently a Master's student majoring in Computer Science at the University of Science and Technology of China (USTC), supervised by Prof. [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow). My research interests include security and privacy in IoT systems and machine learning. I'm actively seeking <span style="color: red;">**2025 summer research internships**</span> and <span style="color: red;">**Ph.D. opportunities for Fall 2026**</span> worldwide. If you have any relevant positions or opportunities, please feel free to reach out to me via email (jingmiao [at] mail [dot] ustc [dot] edu [dot] cn).
 
 # Education
 - M.E. in Computer Science and Technology, USTC, 2023 - 2026 (Expected)
