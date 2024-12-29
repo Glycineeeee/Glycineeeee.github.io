@@ -8,6 +8,8 @@ redirect_from:
 
 I'm currently a Master's student majoring in Computer Science at the University of Science and Technology of China (USTC), supervised by Prof. [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/) (ACM Fellow, IEEE Fellow). I received my Bachelor of Engineering in Information Security from USTC in 2023. My research interests include IoT security and privacy. <span style="color: red;">I'm actively seeking **2025 summer research internships** and **Ph.D. opportunities for Fall 2026** worldwide.</span> Please feel free to reach out to me via email for collaboration or discussion.
 
+Email: jingmiao [at] mail [dot] ustc [dot] edu [dot] cn
+
 # Education
 - M.E. in Computer Science and Technology, USTC, 2023 - 2026 (Expected)
 - B.E. in Information Security, USTC, 2019 - 2023
@@ -15,17 +17,18 @@ I'm currently a Master's student majoring in Computer Science at the University 
 ---
 
 # Publications
-1. **<span style="color: red;">[Security'24]</span> SpeechGuard: Recoverable and Customizable Speech Privacy Protection.**  
+
+1. **<span style="color: red;">[INFOCOM'25]</span> AMoS: Autonomous Multimodal POI Standardization without Extra Annotation.**  
+   Suyuan Liu, <u>Jingmiao Zhang</u>, Haikuo Yu, Yan Zhang, Yuetian Wang, Guobin Shen, Xiang-Yang Li.  
+   In *IEEE International Conference on Computer Communications*, 2025.
+   
+2. **<span style="color: red;">[Security'24]</span> SpeechGuard: Recoverable and Customizable Speech Privacy Protection.**  
    <u>Jingmiao Zhang</u>, Suyuan Liu, Jiahui Hou, Zhiqiang Wang, Haikuo Yu, Xiang-Yang Li.  
    In *The 33th USENIX Security Symposium*, 2024.
 
-2. **<span style="color: red;">[Security'24]</span> Task-Oriented Training Data Privacy Protection for Cloud-based Model Training.**  
+3. **<span style="color: red;">[Security'24]</span> Task-Oriented Training Data Privacy Protection for Cloud-based Model Training.**  
    Zhiqiang Wang, Jiahui Hou, Haifeng Sun, <u>Jingmiao Zhang</u>, Yunhao Yao, Haikuo Yu, Xiang-Yang Li.  
    In *The 33th USENIX Security Symposium*, 2024.
-
-3. **<span style="color: red;">[INFOCOM'25]</span> AMoS: Autonomous Multimodal POI Standardization without Extra Annotation.**  
-   Suyuan Liu, <u>Jingmiao Zhang</u>, Haikuo Yu, Yan Zhang, Yuetian Wang, Guobin Shen, Xiang-Yang Li.  
-   In *IEEE International Conference on Computer Communications*, 2025.
 
 ---
 
