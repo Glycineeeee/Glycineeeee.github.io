@@ -30,7 +30,7 @@ I'm currently a Master's student majoring in Computer Science at the [University
 
 ---
 
-# Selected Awards & Honors
+# Honors
 - **Second Prize**, Ubiquitous Intelligent Sensing Technology Innovation Application Competition, Nov 2024  
 - **National Scholarship** (top 0.2% in China), Ministry of Education, China, Oct 2024
 - **First-class Academic Scholarship**, USTC, 2023
@@ -57,7 +57,7 @@ I'm currently a Master's student majoring in Computer Science at the [University
 
 ---
 
-# Service & Leadership
+# Service
 - **Teaching Assistant**, Fundamentals of Algorithms, USTC (Sept 2024 – Present)
 
 - **Teaching Assistant**, Computer Security, USTC (Mar 2023 – Jun 2023)
