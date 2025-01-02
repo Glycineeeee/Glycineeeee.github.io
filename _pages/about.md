@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Master's student majoring in Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), advised by Prof. [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/). My research interests include security and privacy in IoT systems and machine learning. I'm actively seeking <span style="color: red;">**2025 summer research internships**</span> and <span style="color: red;">**Ph.D. opportunities for Fall 2026**</span> worldwide. If you have any relevant positions or opportunities, please feel free to reach out to me via email (jingmiao [at] mail [dot] ustc [dot] edu [dot] cn).
+I'm currently a Master's student majoring in Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), advised by Prof. [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/). My research interests include security and privacy in IoT systems and machine learning. I'm actively seeking <span style="color: red;">**2025 summer research internships**</span> and <span style="color: red;">**Ph.D. opportunities for Fall 2026**</span> worldwide. If you have any relevant positions or opportunities, please feel free to reach out to me via email.
 
 # Education
 - M.E. in Computer Science and Technology, USTC, 2023 - 2026 (Expected)
@@ -29,6 +29,8 @@ I'm currently a Master's student majoring in Computer Science at the [University
 5. **<span style="color: red;">[Security'24]</span> Task-Oriented Training Data Privacy Protection for Cloud-based Model Training.**  
    Zhiqiang Wang, Jiahui Hou, Haifeng Sun, <u>Jingmiao Zhang</u>, Yunhao Yao, Haikuo Yu, Xiang-Yang Li.  
    In *The 33th USENIX Security Symposium*, 2024.
+   <br>
+   <a href="https://Glycineeeee.github.io/files/sec24winter-wang-paper.pdf" target="_blank">[Paper]</a>
 
 ---
 
@@ -71,7 +73,3 @@ I'm currently a Master's student majoring in Computer Science at the [University
 - **Deputy Director of Publicity Department**, Youth Volunteer Association, USTC (Sept 2020 – Jul 2021)  
   - Managed the association’s official WeChat account.
   - Received the "One-Star Volunteer" award.  
-
----
-
-*Last updated: {{ "now" | date: "%B %d, %Y" }}*
