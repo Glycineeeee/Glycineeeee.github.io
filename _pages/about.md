@@ -20,13 +20,13 @@ I am a Master's student in Computer Science at the [University of Science and Te
    <u>Jingmiao Zhang</u>, Suyuan Liu, Jiahui Hou, Zhiqiang Wang, Haikuo Yu, Xiang-Yang Li.  
    In *The 34th USENIX Security Symposium*, 2025.
    <br>
-   <a href="https://Glycineeeee.github.io/files/sec25winter-zhang-paper.pdf" target="_blank">[Paper]</a>
+   <a href="https://Glycineeeee.github.io/files/sec25-zhang-paper.pdf" target="_blank">[Paper]</a>
 
 2. **<span style="color: red;">[Security'25]</span> Task-Oriented Training Data Privacy Protection for Cloud-based Model Training.**  
    Zhiqiang Wang, Jiahui Hou, Haifeng Sun, <u>Jingmiao Zhang</u>, Yunhao Yao, Haikuo Yu, Xiang-Yang Li.  
    In *The 34th USENIX Security Symposium*, 2025.
    <br>
-   <a href="https://Glycineeeee.github.io/files/sec25winter-wang-paper.pdf" target="_blank">[Paper]</a>
+   <a href="https://Glycineeeee.github.io/files/sec25-wang-paper.pdf" target="_blank">[Paper]</a>
 
 3. **<span style="color: red;">[INFOCOM'25]</span> AMoS: Autonomous Multimodal POI Standardization without Extra Annotation.**  
    Suyuan Liu, <u>Jingmiao Zhang</u>, Haikuo Yu, Yan Zhang, Yuetian Wang, Guobin Shen, Xiang-Yang Li.  
