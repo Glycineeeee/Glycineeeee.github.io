@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a Master's student majoring in Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), advised by Prof. [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/). My research interests include security and privacy in IoT systems and machine learning. I'm actively seeking <span style="color: red;">**2025 summer research internships**</span> and <span style="color: red;">**Ph.D. opportunities for Fall 2026**</span> worldwide. If you have any relevant positions or opportunities, please feel free to reach out to me via <a href="mailto:jingmiao@mail.ustc.edu.cn">email</a>. You can find my CV <a href="https://Glycineeeee.github.io/files/CV_Jingmiao_Zhang.pdf" target="_blank">here</a>.
+I am a Master's student in Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My research interests include security and privacy in intelligent systems, with a focus on IoT, machine learning, and trustworthy AI. I am actively seeking <span style='color: red;'>2025 summer research internships</span> and <span style='color: red;'>Ph.D. opportunities for Fall 2026</span> worldwide. I welcome inquiries regarding relevant positions or collaborations. Please feel free to contact me via <a href="mailto:jingmiao@mail.ustc.edu.cn">email</a>. You can find my CV <a href="https://Glycineeeee.github.io/files/CV_Jingmiao_Zhang.pdf" target="_blank">here</a>.
 
 
 # Education
